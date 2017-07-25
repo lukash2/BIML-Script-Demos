@@ -1,0 +1,11 @@
+<!-- Biml include -->
+<Biml xmlns="http://schemas.varigence.com/biml.xsd">
+    <Packages>
+        <Package Name="Package 1">
+            <#@ include file="Shared_Package_Parts.biml"#>
+        </Package>
+        <Package Name="Package 2">
+            <#@ include file="Shared_Package_Parts.biml"#>
+        </Package>
+    </Packages>
+</Biml>

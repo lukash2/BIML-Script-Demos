@@ -1,0 +1,5 @@
+<!-- include file containing package parameters --> 
+<Parameters>
+    <Parameter Name="pSrcServerName" DataType="String">n/a</Parameter>
+    <Parameter Name="pSrcDbName" DataType="String">n/a</Parameter>
+</Parameters>
