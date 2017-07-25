@@ -1,0 +1,7 @@
+<#@ import namespace="System.Data" #>
+<#@ import namespace="Varigence.Hadron.CoreLowerer.SchemaManagement" #>
+<# var con1  = SchemaManager.CreateConnectionNode("SchemaProvider", "Data Source=(local);Initial Catalog=ETLDemoDB;Provider=SQLNCLI11.1;Integrated Security=SSPI;"); #>
+<# var tables = con1.GenerateTableNodes(); #>
+<# var userName = "lukas"; #>
+<Biml xmlns="http://schemas.varigence.com/biml.xsd">
+</Biml>

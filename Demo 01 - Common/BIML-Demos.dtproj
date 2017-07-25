@@ -26,7 +26,7 @@
           <SSIS:Property SSIS:Name="CreatorComputerName">VAIO5SRV2016</SSIS:Property>
           <SSIS:Property SSIS:Name="Description">
           </SSIS:Property>
-          <SSIS:Property SSIS:Name="PasswordVerifier" SSIS:Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAxLR1y7I4mESo0Y7+/JbS2wAAAAACAAAAAAAQZgAAAAEAACAAAABkuR9cSlyZaB7TZArWuM70iinlPWL9OB4sO4OGVDoznwAAAAAOgAAAAAIAACAAAAD1P5RDcmLTTvb1OHu9Pg4mXcgip2E4cf2UHNIHr46WIZAAAABw7cv6BcYP6A3PX9Xa5TILtQOoVc1XKiWb2TCX/pLsvzFrKqnQd1D+i8ZRMPJrG3o8KzrUzc4HpQIt0HoFWK4GgrmVMv/SjBo3djylZm/dL7pgof77NZ1QNTjczhiPJjPL9xslkhjO92CbStpAlVd5VmdpXlWjFfS7Apqc7vWnefDHDO/a9SWO3zxLaQcMAWNAAAAAfA8A9b+AaayMtpPinOlCe726y/Wz2FWV8vXR0aVJxFuXf2mfrKYUgH/lHtpDAjCyjjwc7OpLX+u0D+M0x8GU8g==</SSIS:Property>
+          <SSIS:Property SSIS:Name="PasswordVerifier" SSIS:Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAxLR1y7I4mESo0Y7+/JbS2wAAAAACAAAAAAAQZgAAAAEAACAAAAAndHY1Anxn61b4R1NMvdQV2V/fFwZw/UOpLMgJdpwp+gAAAAAOgAAAAAIAACAAAACwqbkyNpJ6UZSxRTJFJ2R0TTZMCltX8fdbKlIzqC9tlpAAAAAefvILV1dooDc1nc7h9EV2XGdF+sTs4h0cchtm1Nq2zhriFF9IirxbNT2ju7KUwQpVwyLfHMscwAny8LW3PpCp13jyCkRD+L8z5JgZeAuHH+zeCr+T3q94cFa4UJopoM2ej0PIncrE88uqCHzbC4EcXU8/nQF7YGTDtYUXFUJxdqa9SnjEVtlYGkGR3l/NtnpAAAAAByIKhBeAcqYJ+QrHFBqIRnD2wB48CgbKoQNSMpl6pMHOPU9e35sXRsi462+44NGeDpjh9zTcpn9bfJi2IkrwAQ==</SSIS:Property>
           <SSIS:Property SSIS:Name="FormatVersion">1</SSIS:Property>
         </SSIS:Properties>
         <SSIS:Packages>
@@ -221,6 +221,14 @@
     <ProjectItem>
       <Name>BIML_Demo_02.biml</Name>
       <FullPath>BIML_Demo_02.biml</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>BiML_Demo_03.biml</Name>
+      <FullPath>BiML_Demo_03.biml</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>BIML_Demo_04.biml</Name>
+      <FullPath>BiML_Demo_04.biml</FullPath>
     </ProjectItem>
     <ProjectItem>
       <Name>Shared_Package_Parts.biml</Name>

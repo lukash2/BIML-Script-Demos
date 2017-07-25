@@ -1,0 +1,14 @@
+<!-- c# loop -->
+<Biml xmlns="http://schemas.varigence.com/biml.xsd">  
+    <Packages>  
+        <# for(int i = 1; i <= 3; i++) { #> 
+        <Package Name="Package Loop <#=i#>" ConstraintMode="Linear">  
+            <Annotations>
+                <Annotation AnnotationType="Description">BIML generated package</Annotation>
+                <Annotation AnnotationType="Tag" Tag="SubjectMatter">BIML Demos</Annotation>
+                <Annotation AnnotationType="Tag" Tag="IsRestartable">True</Annotation>
+            </Annotations>
+        </Package>  
+        <# } #> 
+    </Packages>  
+</Biml>
